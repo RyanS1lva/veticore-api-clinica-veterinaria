@@ -1,4 +1,4 @@
-package io.github.ryansilva.veticore.controller.request;
+package io.github.ryansilva.veticore.controller.request.auth;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;

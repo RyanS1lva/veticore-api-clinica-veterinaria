@@ -1,4 +1,4 @@
-package io.github.ryansilva.veticore.controller.response;
+package io.github.ryansilva.veticore.controller.response.auth;
 
 import lombok.*;
 

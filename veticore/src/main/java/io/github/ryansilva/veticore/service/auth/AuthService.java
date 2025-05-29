@@ -1,7 +1,7 @@
-package io.github.ryansilva.veticore.service;
+package io.github.ryansilva.veticore.service.auth;
 
-import io.github.ryansilva.veticore.controller.request.AuthRequest;
-import io.github.ryansilva.veticore.controller.response.AuthResponse;
+import io.github.ryansilva.veticore.controller.request.auth.AuthRequest;
+import io.github.ryansilva.veticore.controller.response.auth.AuthResponse;
 import io.github.ryansilva.veticore.model.User;
 import io.github.ryansilva.veticore.repository.UserRepository;
 import lombok.AllArgsConstructor;
